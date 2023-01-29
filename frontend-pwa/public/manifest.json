@@ -1,0 +1,25 @@
+{
+  "short_name": "citEven_v01",
+  "name": "citEven_v01 Portal de agendamiento",
+  "icons": [
+    {
+      "src": "calendario.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "calendario.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "calendario.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
